@@ -1,6 +1,5 @@
 # Data-Visualization-Tools
-Cytoscape is a data visualization tools.I used Cytoscape to  Analyzed the Tryptophan A (TrpA) protein-protein interaction Network from E.coli
-protein protein interaction of E.coli.
+Cytoscape is a data visualization tools.I used Cytoscape to  Analyzed the Tryptophan A (TrpA) protein-protein interaction Network from E.coli.
 This files include the Microsoft Powerpoint presentation on it.
 
 ## Cytoscape : The De-facto Standard Tool For Biological Networks Visualization  
